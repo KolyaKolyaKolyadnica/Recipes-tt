@@ -1,7 +1,6 @@
 import Recipes from "@/components/Recipes/Recipes";
 import RecipesSkeleton from "@/components/Recipes/RecipesSkeleton";
 import { RecipesSearchParams } from "@/types/recipes";
-import Link from "next/link";
 import { Suspense } from "react";
 
 type Props = {
