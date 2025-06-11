@@ -29,4 +29,6 @@ cp .env.example .env
 npm i
 ```
 
-3. npm run dev
+4. Run app:
+
+`npm run dev`
