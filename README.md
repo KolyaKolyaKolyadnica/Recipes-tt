@@ -8,7 +8,7 @@ A simple React/Next.js application for searching and displaying recipes using th
 
 ### Prerequisites
 
-- Node.js (version X or above)
+- Node.js (version 23.9.0 or above)
 - npm or yarn
 
 ### Setup
