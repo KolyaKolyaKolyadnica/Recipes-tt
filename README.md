@@ -21,7 +21,7 @@ cp .env.example .env
 
 2. Paste your Spoonacular API key into the .env file:
 
-API_KEY=your_api_key_here
+`API_KEY=your_api_key_here`
 
 3. Install dependencies:
 
@@ -30,15 +30,3 @@ npm i
 ```
 
 3. npm run dev
-
-4. Build the project for production:
-
-```bash
-npm run build
-```
-
-5. Start the production server:
-
-```bash
-npm run start
-```
